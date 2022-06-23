@@ -17,8 +17,8 @@ class UserSeeder extends Seeder
      */
     public function run()
     {
-        $factory = new UserFactory();
-        $factory->count(150)->create();
+        /*$factory = new UserFactory();
+        $factory->count(150)->create();*/
         User::create([
             'name'              => 'Paul Garcia.',
             'email'             => 'admin@live.com',
