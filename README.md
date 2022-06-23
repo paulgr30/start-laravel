@@ -17,7 +17,7 @@ Proyecto Start-Basic sobre Login y crud de usuarios, mediante Api Rest, usando l
 - Vue2 + Vuex + Vue-Router + Bootstrap-Vue + Axios => SPA.
 
 Para descargar e instalar el Front-End - Vue2 de click en el siguiente link -
-[https://github.com/paulgr30/blog-laravel](https://github.com/paulgr30/blog-laravel)
+[https://github.com/paulgr30/start-vue2](https://github.com/paulgr30/start-vue2)
 
 ## Sobre el Autor
 
